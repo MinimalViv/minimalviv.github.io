@@ -78,9 +78,13 @@ body {
     padding-right: 100px;
 }
 
-.logo-wrapper image {
-    width: 50%;
+.logo-wrapper img {
+    width: 100%;
     margin-bottom: 20px;
+}
+
+.knitting-logo {
+    width: 90%;
 }
 
 .image-text-wrapper:hover .subtitle {
