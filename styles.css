@@ -83,10 +83,6 @@ body {
     margin-bottom: 20px;
 }
 
-.knitting-logo {
-    width: 90%;
-}
-
 .image-text-wrapper:hover .subtitle {
     transition: 1s;
     font-weight: 600;
